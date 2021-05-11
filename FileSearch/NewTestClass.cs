@@ -12,6 +12,7 @@ namespace FileSearch
         public NewTestClass()
         {
             var b = "hellow,world";
+            var c = "ssdsd";
         }
     }
 }
